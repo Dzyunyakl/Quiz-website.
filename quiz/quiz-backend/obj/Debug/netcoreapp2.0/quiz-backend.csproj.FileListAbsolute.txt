@@ -1,0 +1,10 @@
+/home/dzyun/Documents/quiz/quiz-backend/bin/Debug/netcoreapp2.0/quiz-backend.deps.json
+/home/dzyun/Documents/quiz/quiz-backend/bin/Debug/netcoreapp2.0/quiz-backend.runtimeconfig.json
+/home/dzyun/Documents/quiz/quiz-backend/bin/Debug/netcoreapp2.0/quiz-backend.runtimeconfig.dev.json
+/home/dzyun/Documents/quiz/quiz-backend/bin/Debug/netcoreapp2.0/quiz-backend.dll
+/home/dzyun/Documents/quiz/quiz-backend/bin/Debug/netcoreapp2.0/quiz-backend.pdb
+/home/dzyun/Documents/quiz/quiz-backend/obj/Debug/netcoreapp2.0/quiz-backend.csproj.CoreCompileInputs.cache
+/home/dzyun/Documents/quiz/quiz-backend/obj/Debug/netcoreapp2.0/quiz-backend.AssemblyInfoInputs.cache
+/home/dzyun/Documents/quiz/quiz-backend/obj/Debug/netcoreapp2.0/quiz-backend.AssemblyInfo.cs
+/home/dzyun/Documents/quiz/quiz-backend/obj/Debug/netcoreapp2.0/quiz-backend.dll
+/home/dzyun/Documents/quiz/quiz-backend/obj/Debug/netcoreapp2.0/quiz-backend.pdb
